@@ -1,0 +1,23 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT ! */
+
+#ifndef TETRIS_PRIVATE_H
+#define TETRIS_PRIVATE_H
+
+/* VERSION DEFINITIONS */
+#define VER_STRING	"2.0.0.260"
+#define VER_MAJOR	2
+#define VER_MINOR	0
+#define VER_RELEASE	0
+#define VER_BUILD	260
+#define COMPANY_NAME	"MickyRex"
+#define FILE_VERSION	"2.0.0.260"
+#define FILE_DESCRIPTION	"Developed using the Dev-C++ IDE"
+#define INTERNAL_NAME	""
+#define LEGAL_COPYRIGHT	""
+#define LEGAL_TRADEMARKS	""
+#define ORIGINAL_FILENAME	""
+#define PRODUCT_NAME	"Tetris"
+#define PRODUCT_VERSION	"2.0.0.260"
+
+#endif /*TETRIS_PRIVATE_H*/
